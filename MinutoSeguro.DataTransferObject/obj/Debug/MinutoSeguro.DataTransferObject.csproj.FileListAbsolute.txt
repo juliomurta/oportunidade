@@ -1,0 +1,15 @@
+C:\Users\JulioCésar\Desktop\MinutoSeguros\MinutoSeguro.DataTransferObject\bin\Debug\MinutoSeguro.DataTransferObject.dll
+C:\Users\JulioCésar\Desktop\MinutoSeguros\MinutoSeguro.DataTransferObject\bin\Debug\MinutoSeguro.DataTransferObject.pdb
+C:\Users\JulioCésar\Desktop\MinutoSeguros\MinutoSeguro.DataTransferObject\obj\Debug\MinutoSeguro.DataTransferObject.dll
+C:\Users\JulioCésar\Desktop\MinutoSeguros\MinutoSeguro.DataTransferObject\obj\Debug\MinutoSeguro.DataTransferObject.pdb
+C:\Users\JulioCésar\Desktop\MinutoSeguros\MinutoSeguro.DataTransferObject\obj\Debug\MinutoSeguro.DataTransferObject.csprojResolveAssemblyReference.cache
+C:\Users\TRS\Desktop\MinutoSeguros\MinutoSeguros\MinutoSeguro.DataTransferObject\bin\Debug\MinutoSeguro.DataTransferObject.dll
+C:\Users\TRS\Desktop\MinutoSeguros\MinutoSeguros\MinutoSeguro.DataTransferObject\bin\Debug\MinutoSeguro.DataTransferObject.pdb
+C:\Users\TRS\Desktop\MinutoSeguros\MinutoSeguros\MinutoSeguro.DataTransferObject\obj\Debug\MinutoSeguro.DataTransferObject.csprojResolveAssemblyReference.cache
+C:\Users\TRS\Desktop\MinutoSeguros\MinutoSeguros\MinutoSeguro.DataTransferObject\obj\Debug\MinutoSeguro.DataTransferObject.dll
+C:\Users\TRS\Desktop\MinutoSeguros\MinutoSeguros\MinutoSeguro.DataTransferObject\obj\Debug\MinutoSeguro.DataTransferObject.pdb
+C:\Users\JulioCésar\Downloads\MinutoSeguros\MinutoSeguros\MinutoSeguros\MinutoSeguro.DataTransferObject\bin\Debug\MinutoSeguro.DataTransferObject.dll
+C:\Users\JulioCésar\Downloads\MinutoSeguros\MinutoSeguros\MinutoSeguros\MinutoSeguro.DataTransferObject\bin\Debug\MinutoSeguro.DataTransferObject.pdb
+C:\Users\JulioCésar\Downloads\MinutoSeguros\MinutoSeguros\MinutoSeguros\MinutoSeguro.DataTransferObject\obj\Debug\MinutoSeguro.DataTransferObject.csprojResolveAssemblyReference.cache
+C:\Users\JulioCésar\Downloads\MinutoSeguros\MinutoSeguros\MinutoSeguros\MinutoSeguro.DataTransferObject\obj\Debug\MinutoSeguro.DataTransferObject.dll
+C:\Users\JulioCésar\Downloads\MinutoSeguros\MinutoSeguros\MinutoSeguros\MinutoSeguro.DataTransferObject\obj\Debug\MinutoSeguro.DataTransferObject.pdb

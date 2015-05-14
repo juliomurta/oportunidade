@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutoSeguro.DataTransferObject", "MinutoSeguro.DataTransferObject\MinutoSeguro.DataTransferObject.csproj", "{A612E2BA-450D-4C29-A25A-9332B9BC65EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutoSeguros.Repository", "MinutoSeguros.Repository\MinutoSeguros.Repository.csproj", "{7EC2A893-C1F6-414D-8640-1657E9565539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutoSeguro.Business", "MinutoSeguro.Business\MinutoSeguro.Business.csproj", "{23D6C0FC-A8B7-43A9-B029-CE82E4F7FDCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutoSeguros.Utils", "MinutoSeguros.Utils\MinutoSeguros.Utils.csproj", "{5B5F6203-B12E-4C21-AF4D-3265A7ADEDA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutosSeguros.Web", "MinutosSeguros.Web\MinutosSeguros.Web.csproj", "{D8B0020D-44F1-433C-AAD1-B57559E44243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutosSeguros.Web.Tests", "MinutosSeguros.Web.Tests\MinutosSeguros.Web.Tests.csproj", "{01371830-0CCF-4039-B95A-D90C12D47254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A612E2BA-450D-4C29-A25A-9332B9BC65EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A612E2BA-450D-4C29-A25A-9332B9BC65EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A612E2BA-450D-4C29-A25A-9332B9BC65EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A612E2BA-450D-4C29-A25A-9332B9BC65EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC2A893-C1F6-414D-8640-1657E9565539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC2A893-C1F6-414D-8640-1657E9565539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC2A893-C1F6-414D-8640-1657E9565539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC2A893-C1F6-414D-8640-1657E9565539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D6C0FC-A8B7-43A9-B029-CE82E4F7FDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D6C0FC-A8B7-43A9-B029-CE82E4F7FDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D6C0FC-A8B7-43A9-B029-CE82E4F7FDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D6C0FC-A8B7-43A9-B029-CE82E4F7FDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B5F6203-B12E-4C21-AF4D-3265A7ADEDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5F6203-B12E-4C21-AF4D-3265A7ADEDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5F6203-B12E-4C21-AF4D-3265A7ADEDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5F6203-B12E-4C21-AF4D-3265A7ADEDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B0020D-44F1-433C-AAD1-B57559E44243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B0020D-44F1-433C-AAD1-B57559E44243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B0020D-44F1-433C-AAD1-B57559E44243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B0020D-44F1-433C-AAD1-B57559E44243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01371830-0CCF-4039-B95A-D90C12D47254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01371830-0CCF-4039-B95A-D90C12D47254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01371830-0CCF-4039-B95A-D90C12D47254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01371830-0CCF-4039-B95A-D90C12D47254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
